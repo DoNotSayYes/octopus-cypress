@@ -3,6 +3,6 @@ cypress/screenshots/*
 # Where Cypress will automatically save the video of the test run when tests run with cypress runith cypress run
 cypress/videos/*
 
-+ yarn files
+# yarn files
 yarn-error.log
 yarn.lock
