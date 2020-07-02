@@ -1,4 +1,0 @@
-# Path to folder where screenshots will be saved from cy.screenshot() command or after a test fails during cypress run
-cypress/screenshots
-# Where Cypress will automatically save the video of the test run when tests run with cypress runith cypress run
-cypress/videos
